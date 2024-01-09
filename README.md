@@ -27,3 +27,5 @@ git init
 ```
 
 Это лишь некоторые функции markdown.
+
+Шпаргалка по маркдауну [GitHub](https://gist.github.com/fomvasss/8dd8cd7f88c67a4e3727f9d39224a84c)
